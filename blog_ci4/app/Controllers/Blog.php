@@ -8,12 +8,49 @@ class Blog extends BaseController
 
     public function index()
     {
-        echo "Meu primeiro controlador com o CodeIgniter 4";
+        //echo "Meu primeiro controlador com o CodeIgniter 4";
+
+        $parser = \Config\Services::parser();
+        
+        $dados  = [
+            "titulo_da_pagina" => "Livro CodeIgniter 4",
+            "mensagem"         => "Minha primeira view com o CodeIgniter 4",
+            'conteudos'   =>
+                ['titulo' => 'Conteúdo #1', 'texto' => 'Texto para o conteúdo #1'],
+                ['titulo' => 'Conteúdo #2', 'texto' => 'Texto para o conteúdo #2'],
+                ['titulo' => 'Conteúdo #3', 'texto' => 'Texto para o conteúdo #3']
+           
+        ];
+
+        echo $parser->setData($dados)->render('Cabecalho');
+        echo $parser->setData($dados)->render('Blog/Index', ['cascadeData' => true]);
+        echo view('Rodape', [], ['cache' => 60, 'cache_name' => 'rodape_cache']);
+
+        /*
+        echo view('Cabecalho', $dados, ['cache' => 60, 'cache_name' => 'cabecalho_cache']);
+        echo view('Blog/Index', $dados);
+        echo view('Rodape', [], ['cache' => 60, 'cache_name' => 'rodape_cache']);
+        */
     }
 
     public function posts($categoria, $quantidade)
     {
         echo "Esse método pode exibir uma lista com $quantidade posts do blog na categoria $categoria";
+    }
+
+    public function ler($postname)
+    {
+        echo "Essa URI vai carregar a página para a leitura do post '$postname'.";
+    }
+
+    public function getPostByUUID($uuid)
+    {
+        echo "Essa URI vai carregar a página para a leitura de um post com o UUID $uuid que teve a rota criada a partir de um placeholder personalizado.";
+    }
+
+    public function autor()
+    {
+        echo "Essa URI exibe conteúdo do perfil do autor.";
     }
 
     protected function existe_post()

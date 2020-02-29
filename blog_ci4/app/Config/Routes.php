@@ -30,7 +30,24 @@ $routes->setAutoRoute(true);
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
+$routes->addPlaceholder('uuid', '[0-9]{4}-[a-f]{4}');
+
 $routes->get('/', 'Blog::index');
+$routes->get('blog/uuid/(:uuid)', 'Blog::getPostByUUID/$1');
+$routes->get('blog/https', 'Blog::https');
+$routes->get('blog/(:any)', 'Blog::ler/$1');
+$routes->get('blog/categoria/(:any)/(:num)', 'Blog::posts/$1/$2');
+
+$routes->add('autores/perfil', 'Blog::autor', ['as' => 'perfil']);
+
+// Redirecionamento para o nome da rota
+$routes->addRedirect('autor/sobre', 'perfil');
+// Redirecionamento para o URI
+$routes->addRedirect('autor/sobre', 'autores/perfil');
+
+$routes->environment('development', function ($routes) {
+	$routes->add('logs', 'Log::index');
+});
 
 /**
  * --------------------------------------------------------------------
