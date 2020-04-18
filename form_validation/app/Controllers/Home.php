@@ -4,6 +4,7 @@ class Home extends BaseController
 {
 	public function index()
 	{
+		// Criamos uma instância do model
 		$usuarioModel = new \App\Models\UsuarioModel();
 
 		$dados = [
@@ -12,12 +13,17 @@ class Home extends BaseController
 			'request'   => []
 		];
 
+		// Verificamos se o formulário foi submetido
 		if($this->request->getPost()){
+			// Recuperamos os dados enviados pelo formulário
 			$dtUsuario = $this->request->getPost();
 			$dados = [
 				'request' => $dtUsuario
 			];
 
+			// Salvamos os registros na tabela 'usuarios' e em caso de erro
+			// retornamos os mesmos para a variável 'dados' para serem exibidos
+			// nma view
 			if ($usuarioModel->save($dtUsuario) === false) {
 				$dados = [
 					'validacao' => true,
@@ -26,6 +32,7 @@ class Home extends BaseController
 			}
 		}
 
+		// Carregamos a view
 		return view('welcome_message', $dados);
 	}
 
