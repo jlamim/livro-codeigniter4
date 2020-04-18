@@ -1,6 +1,6 @@
 # Repositório Oficial do Livro CodeIgniter 4
 
-Esse é o repositório oficial com todos os códigos criados no livro **CodeIgniter 4** publicado pela **Editora Casa do Código** (www.casadocodigo.com.br).
+Esse é o repositório oficial com códigos de exemplo que servem de apoio ao aprendizado para você que adquiriu o livro **CodeIgniter 4** publicado pela **Editora Casa do Código** (www.casadocodigo.com.br).
 
 **Site do livro:** www.livrocodeigniter.com.br
 
@@ -10,6 +10,8 @@ Esse é o repositório oficial com todos os códigos criados no livro **CodeIgni
 
 *Caso encontre algum bug nos códigos, reporte através de **Issues**.*
 
-## Códigos Disponíveis
+## Exemplos Disponíveis
 
-- Criação de controllers (capítulo 20)
+- Criação de controllers (blog_ci4)
+- Criação de bibliotecas e helpers (libs_helpers)
+- Validação de formulários (form_validation)
