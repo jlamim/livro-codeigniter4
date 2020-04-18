@@ -19,3 +19,4 @@ Cada exemplo contém um arquivo **README.md** com informações sobre os recurso
 - Criação de controllers (blog_ci4)
 - Criação de bibliotecas e helpers (libs_helpers)
 - Validação de formulários (form_validation)
+- Upload de Arquivos (upload_files)
