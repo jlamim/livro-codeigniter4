@@ -20,3 +20,4 @@ Cada exemplo contém um arquivo **README.md** com informações sobre os recurso
 - Criação de bibliotecas e helpers (libs_helpers)
 - Validação de formulários (form_validation)
 - Upload de Arquivos (upload_files)
+- Manipulação de Imagens (image_manipulation)
