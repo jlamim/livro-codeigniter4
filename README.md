@@ -21,3 +21,4 @@ Cada exemplo contém um arquivo **README.md** com informações sobre os recurso
 - Validação de formulários (form_validation)
 - Upload de Arquivos (upload_files)
 - Manipulação de Imagens (image_manipulation)
+- Envio de Email (send_email)
