@@ -1,0 +1,406 @@
+*   Trying 2606:4700:10::6814:860f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:860f) port 80 (#0)
+> GET /?i=tt3896198&apikey=a6e6b5f8 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 19:56:59 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=daa25a3f0aaa00de4d53cf1c968133ec21587412619; expires=Wed, 20-May-20 19:56:59 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 20:35:36 GMT
+< Last-Modified: Mon, 20 Apr 2020 19:35:36 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: HIT
+< Age: 1283
+< Server: cloudflare
+< CF-RAY: 58716e866943f1e2-GRU
+< Content-Encoding: gzip
+< cf-request-id: 023ac368020000f1e2b6325200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:860f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:860f) port 80 (#0)
+> GET /?i=tt3896198&apikey=a6e6b5f8 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 19:58:56 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=d7644196033a29b5237201e7234ebcb561587412736; expires=Wed, 20-May-20 19:58:56 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 20:35:36 GMT
+< Last-Modified: Mon, 20 Apr 2020 19:35:36 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: HIT
+< Age: 1400
+< Server: cloudflare
+< CF-RAY: 5871716248efeebe-GRU
+< Content-Encoding: gzip
+< cf-request-id: 023ac5316f0000eebe1187c200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:860f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:860f) port 80 (#0)
+> GET /?i=tt3896198&apikey=a6e6b5f8 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 19:59:21 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=d14c5f4500e2718b32441f4a4e944110c1587412761; expires=Wed, 20-May-20 19:59:21 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 20:35:36 GMT
+< Last-Modified: Mon, 20 Apr 2020 19:35:36 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: HIT
+< Age: 1425
+< Server: cloudflare
+< CF-RAY: 587172024dd3f6f8-GRU
+< Content-Encoding: gzip
+< cf-request-id: 023ac5956f0000f6f82c8a8200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:860f:80...
+* TCP_NODELAY set
+*   Trying 104.20.134.15:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:860f) port 80 (#0)
+> GET /?type=movie&apikey=a6e6b5f8 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 20:02:06 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=d4cc2f48d27613661fedb35d4bd2376ed1587412925; expires=Wed, 20-May-20 20:02:05 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 21:02:06 GMT
+< Last-Modified: Mon, 20 Apr 2020 20:02:06 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: MISS
+< Server: cloudflare
+< CF-RAY: 58717602af8bf673-GRU
+< Content-Encoding: gzip
+< cf-request-id: 023ac815a90000f6732932f200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:860f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:860f) port 80 (#0)
+> GET /?apikey=a6e6b5f8&type=movie&t=007 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 20:03:33 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=de49182f29dcdfd3a10ded36c46ae04c01587413013; expires=Wed, 20-May-20 20:03:33 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 21:03:33 GMT
+< Last-Modified: Mon, 20 Apr 2020 20:03:33 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: MISS
+< Server: cloudflare
+< CF-RAY: 587178241d10d040-GRU
+< Content-Encoding: gzip
+< cf-request-id: 023ac96a8e0000d0404fb3b200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:860f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:860f) port 80 (#0)
+> GET /?apikey=a6e6b5f8&type=movie&t=007 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 20:04:18 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=d107bca5741385960f3e3d8035b5f31a81587413058; expires=Wed, 20-May-20 20:04:18 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 21:03:33 GMT
+< Last-Modified: Mon, 20 Apr 2020 20:03:33 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: HIT
+< Age: 45
+< Server: cloudflare
+< CF-RAY: 5871793c7c6ff700-GRU
+< Content-Encoding: gzip
+< cf-request-id: 023aca19cf0000f700ab2ba200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:860f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:860f) port 80 (#0)
+> GET /?apikey=a6e6b5f8&type=movie&t=007 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 20:04:44 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=de263fc06398a3cbf133ba0a3259bdbe81587413084; expires=Wed, 20-May-20 20:04:44 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 21:03:33 GMT
+< Last-Modified: Mon, 20 Apr 2020 20:03:33 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: HIT
+< Age: 71
+< Server: cloudflare
+< CF-RAY: 587179e15e9af1da-GRU
+< Content-Encoding: gzip
+< cf-request-id: 023aca80d40000f1dab4003200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:860f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:860f) port 80 (#0)
+> GET /?apikey=a6e6b5f8&type=movie&t=007 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 20:08:31 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=d1c560614ff76799c80ab9035d364a7851587413311; expires=Wed, 20-May-20 20:08:31 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 21:03:33 GMT
+< Last-Modified: Mon, 20 Apr 2020 20:03:33 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: MISS
+< Server: cloudflare
+< CF-RAY: 58717f61895ddbb0-GIG
+< Content-Encoding: gzip
+< cf-request-id: 023acdf0f20000dbb06b93e200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:860f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:860f) port 80 (#0)
+> GET /?apikey=a6e6b5f8&type=movie&t=007 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 20:09:14 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=d0f2868eac675b2eef3ef65ea9bc494a41587413353; expires=Wed, 20-May-20 20:09:13 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 21:03:33 GMT
+< Last-Modified: Mon, 20 Apr 2020 20:03:33 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: HIT
+< Age: 43
+< Server: cloudflare
+< CF-RAY: 58718074c9fadbb0-GIG
+< Content-Encoding: gzip
+< cf-request-id: 023ace9cfb0000dbb06b2ed200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:870f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:870f) port 80 (#0)
+> GET /?apikey=a6e6b5f8&type=movie&t=007 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 20:09:59 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=da925546a45db2a744b4af2ea28c37f4e1587413399; expires=Wed, 20-May-20 20:09:59 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 21:03:33 GMT
+< Last-Modified: Mon, 20 Apr 2020 20:03:33 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: HIT
+< Age: 88
+< Server: cloudflare
+< CF-RAY: 58718194ff11f867-GIG
+< Content-Encoding: gzip
+< cf-request-id: 023acf51170000f86732238200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
+*   Trying 2606:4700:10::6814:870f:80...
+* TCP_NODELAY set
+* Connected to www.omdbapi.com (2606:4700:10::6814:870f) port 80 (#0)
+> GET /?apikey=a6e6b5f8&type=movie&t=007 HTTP/1.1
+Host: www.omdbapi.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Dnt: 1
+Connection: keep-alive
+Cookie: debug-bar-tab=ci-vars; debug-bar-state=minimized
+Upgrade-Insecure-Requests: 1
+Cache-Control: max-age=0
+
+* Mark bundle as not supporting multiuse
+< HTTP/1.1 200 OK
+< Date: Mon, 20 Apr 2020 20:10:24 GMT
+< Content-Type: application/json; charset=utf-8
+< Transfer-Encoding: chunked
+< Connection: keep-alive
+< Set-Cookie: __cfduid=d4f2052451a52df3aa4de8304b31e9cbd1587413424; expires=Wed, 20-May-20 20:10:24 GMT; path=/; domain=.omdbapi.com; HttpOnly; SameSite=Lax
+< Cache-Control: public, max-age=86400
+< Expires: Mon, 20 Apr 2020 21:03:33 GMT
+< Last-Modified: Mon, 20 Apr 2020 20:03:33 GMT
+< Vary: *, Accept-Encoding
+< X-AspNet-Version: 4.0.30319
+< X-Powered-By: ASP.NET
+< Access-Control-Allow-Origin: *
+< CF-Cache-Status: HIT
+< Age: 113
+< Server: cloudflare
+< CF-RAY: 587182313bd5f83f-GIG
+< Content-Encoding: gzip
+< cf-request-id: 023acfb2c10000f83fa60b3200000001
+< 
+* Connection #0 to host www.omdbapi.com left intact
