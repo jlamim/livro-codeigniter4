@@ -23,3 +23,4 @@ Cada exemplo contém um arquivo **README.md** com informações sobre os recurso
 - Manipulação de Imagens (image_manipulation)
 - Envio de Email (send_email)
 - Requisições com cURL nativo (curl_request)
+- Multi-idioma (multi_idioma)
