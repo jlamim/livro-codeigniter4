@@ -24,4 +24,5 @@ Cada exemplo contém um arquivo **README.md** com informações sobre os recurso
 - Envio de Email (send_email)
 - Requisições com cURL nativo (curl_request)
 - Multi-idioma (multi_idioma)
+- Limitação de Requisições (throttler)
 - CRUD (crud)
