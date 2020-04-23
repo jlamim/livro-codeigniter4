@@ -60,5 +60,4 @@ class Home extends BaseController
 		// Carregamos a view
 		return view('limite_excedido');
 	}
-
 }
